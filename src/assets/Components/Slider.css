@@ -1,0 +1,28 @@
+.slid{
+    margin-top: 0px ;
+    /* border:  2px solid red; */
+    display: flex;
+    align-items: center;
+}
+.left-slider , .right-slider{
+    width: 50%;
+}
+
+p{  
+    padding-block: 30px;
+}
+.midlleh{
+    color: var(--main-color);
+}
+.right-slider img{
+    width: 100%;
+}
+/* a{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: var(--main-color);
+    color: var(--light-color);
+    border: none;
+    border-radius: 20px;
+    margin-left: 10px;
+} */
